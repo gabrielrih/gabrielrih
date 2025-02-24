@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm currently working with Python, SQL Server and MongoDB.
-So, you'll see a lot of repos here of tools written in Python.
+So, you'll see a lot of tools written in Python.
 
 <!--
 **gabrielrih/gabrielrih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
